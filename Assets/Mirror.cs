@@ -5,7 +5,7 @@ using UnityEngine;
 public class Mirror : MonoBehaviour
 {
     public GameObject Position1;
-    public GameObject Position2;
+    //public GameObject Position2;
     public GameObject CreatMirror;
 
     public Vector2 M1positon;
